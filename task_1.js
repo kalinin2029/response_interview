@@ -10,4 +10,4 @@ Promise.resolve(10) //
 
 //В консоле у нас будет.
 //A: 10
-//B: Error: Got error.
+//B: Error: Got error
