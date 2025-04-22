@@ -1,4 +1,4 @@
-Promise.resolve(10) //
+Promise.resolve(10)
 .then(console.log.bind(null, 'A:')) //В первый раз выведет А: 10.
 //.then((value) => console.log('A:', value)) // аналогичный способ, как предложил DeepSeek
 .then(res => !res
