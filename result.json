@@ -1,0 +1,22 @@
+[
+  {
+    "name": "some_file1.txt",
+    "raw": "Some text one."
+  },
+  {
+    "name": "some_file2.txt",
+    "raw": "Text two."
+  },
+  {
+    "name": "some_file3.txt",
+    "raw": "Some three."
+  },
+  {
+    "name": "some_file4.txt",
+    "raw": "Some text four."
+  },
+  {
+    "name": "some_file5.txt",
+    "raw": "Some text five."
+  }
+]
