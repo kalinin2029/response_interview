@@ -1,22 +1,27 @@
 [
   {
     "name": "some_file1.txt",
-    "raw": "Some text one."
+    "raw": "Some text one.",
+    "fullFile": "Some text one.; "
   },
   {
     "name": "some_file2.txt",
-    "raw": "Text two."
+    "raw": "Text two.",
+    "fullFile": "Some text one.; Text two.; "
   },
   {
     "name": "some_file3.txt",
-    "raw": "Some three."
+    "raw": "Some three.",
+    "fullFile": "Some text one.; Text two.; Some three.; "
   },
   {
     "name": "some_file4.txt",
-    "raw": "Some text four."
+    "raw": "Some text four.",
+    "fullFile": "Some text one.; Text two.; Some three.; Some text four.; "
   },
   {
     "name": "some_file5.txt",
-    "raw": "Some text five."
+    "raw": "Some text five.",
+    "fullFile": "Some text one.; Text two.; Some three.; Some text four.; Some text five.; "
   }
 ]
